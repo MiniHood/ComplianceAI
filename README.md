@@ -3,7 +3,9 @@ ComplianceAI is a Lua addon for FiveM that uses advanced artificial intelligence
 
 ## Features
 > Behaviour Analysis
+
 > Built in report system
+
 > Third party report support
 
 ## How does this work?
